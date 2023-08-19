@@ -1,0 +1,5 @@
+{{#user}}
+Name: Gowrinath
+Skills: HTML, CSS, JS, Next.js
+Email: 2100032036cseh@gmail.com
+{{/user}}
